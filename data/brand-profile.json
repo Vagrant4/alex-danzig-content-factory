@@ -1,0 +1,61 @@
+{
+  "person": {
+    "name": "Alex Danzig",
+    "identity": "Singaporean businessman-model aligned with VAGRANT IV",
+    "age": 40,
+    "heightCm": 180,
+    "weightKg": 77,
+    "visualSignals": [
+      "silver or bleached wavy hair",
+      "mature sharp face",
+      "visible neck tattoo with 4 when natural",
+      "rugged premium streetwear",
+      "motorcycle lifestyle",
+      "business-meets-streetwear"
+    ]
+  },
+  "brand": {
+    "name": "VAGRANT IV",
+    "message": "For the strong.",
+    "role": "Streetwear brand supported by Alex Danzig personal brand growth",
+    "ratio": {
+      "alexDanzig": 80,
+      "vagrantIv": 20
+    }
+  },
+  "tone": [
+    "premium",
+    "masculine",
+    "controlled",
+    "cinematic",
+    "gritty",
+    "confident"
+  ],
+  "avoid": [
+    "fake analytics",
+    "fake scarcity",
+    "cringe influencer tone",
+    "Gen Z slang overload",
+    "hard selling as the default",
+    "claiming live scraping without verified input"
+  ],
+  "visualDirection": [
+    "ultra-realistic editorial street photography",
+    "night city lights",
+    "motorcycle roadside scenes",
+    "black VAGRANT oversized tees",
+    "denim",
+    "black cargo pants",
+    "Timberland yellow boots",
+    "gloves",
+    "Singapore and Manila urban grit"
+  ],
+  "contentRatios90Days": {
+    "motorcycleReelsPerWeek": 3,
+    "founderBusinessClipsPerWeek": 2,
+    "streetwearFitChecksPerWeek": 2,
+    "lifestyleEditorialPhotosPerWeek": 2,
+    "vagrantIvProductPostsPerWeek": 1,
+    "motivationalDisciplineContentPerWeek": 1
+  }
+}

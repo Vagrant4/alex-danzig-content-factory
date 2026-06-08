@@ -1,0 +1,17 @@
+{
+  "notes": "Manual analytics input. Do not invent numbers. Replace null values only with verified Instagram, Meta Business Suite, or website analytics data.",
+  "weeks": [
+    {
+      "weekStart": "2026-06-08",
+      "followers": null,
+      "reach": null,
+      "profileVisits": null,
+      "websiteClicks": null,
+      "reelPerformance": [],
+      "vagrantIvConversions": null,
+      "bestPost": null,
+      "worstPost": null,
+      "notes": "Enter real weekly notes after publishing."
+    }
+  ]
+}

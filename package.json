@@ -1,0 +1,29 @@
+{
+  "name": "alex-danzig-content-factory",
+  "version": "1.0.0",
+  "description": "Content generation, scoring, and dashboard automation for Alex Danzig and VAGRANT IV.",
+  "type": "module",
+  "private": false,
+  "scripts": {
+    "generate:daily": "node scripts/generateDailyContent.js tomorrow",
+    "generate:weekly": "node scripts/generateWeeklyPack.js",
+    "generate:caption": "node scripts/generateCaption.js tomorrow",
+    "generate:hashtags": "node scripts/generateHashtags.js tomorrow",
+    "generate:shot-list": "node scripts/generateShotList.js tomorrow",
+    "analyze:viral": "node scripts/analyzeViralReels.js",
+    "score": "node scripts/scorePost.js",
+    "dashboard": "node scripts/generateDashboard.js",
+    "test": "node --test"
+  },
+  "keywords": [
+    "instagram",
+    "content",
+    "streetwear",
+    "vagrant-iv",
+    "alex-danzig"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">=20"
+  }
+}

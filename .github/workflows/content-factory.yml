@@ -1,0 +1,45 @@
+name: Alex Danzig Content Factory
+
+on:
+  schedule:
+    - cron: "30 1 * * *"
+    - cron: "0 2 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    name: Generate content factory outputs
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Run tests
+        run: npm test
+
+      - name: Generate daily content
+        run: npm run generate:daily
+
+      - name: Generate weekly intelligence and dashboard
+        if: github.event.schedule == '0 2 * * 1' || github.event_name == 'workflow_dispatch'
+        run: |
+          npm run generate:weekly
+          npm run analyze:viral
+          npm run dashboard
+
+      - name: Commit generated outputs
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add content dashboard
+          git commit -m "Generate Alex Danzig content factory outputs" || echo "No generated changes to commit"
+          git push

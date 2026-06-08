@@ -1,0 +1,15 @@
+{
+  "weights": {
+    "hook": 25,
+    "shareability": 25,
+    "saveability": 20,
+    "brandFit": 15,
+    "cta": 15
+  },
+  "scoreMeaning": {
+    "90-100": "Strong post candidate. Publish or produce first.",
+    "75-89": "Good candidate. Tighten one weak area before production.",
+    "60-74": "Usable but needs stronger hook, save value, or CTA.",
+    "0-59": "Do not publish without rewriting."
+  }
+}

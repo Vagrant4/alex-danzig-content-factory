@@ -1,0 +1,205 @@
+{
+  "notes": "Manual input only. Replace placeholder creators, links, and metrics with verified observations.",
+  "observations": [
+    {
+      "category": "motorcycle",
+      "creator": "enter_handle",
+      "link": "enter_url",
+      "hook": "Meeting at 6. Road by 9.",
+      "structure": "Business object close-up, outfit transition, bike key, roadside final frame",
+      "cta": "Follow for controlled streetwear.",
+      "priority": 98,
+      "observedMetric": "enter actual reach, views, saves, or shares"
+    },
+    {
+      "category": "streetwear",
+      "creator": "enter_handle",
+      "link": "enter_url",
+      "hook": "One black tee. Three pressure-tested fits.",
+      "structure": "Same garment, three looks, detail cuts, full-body comparison",
+      "cta": "Save this fit guide.",
+      "priority": 96,
+      "observedMetric": "enter actual reach, views, saves, or shares"
+    },
+    {
+      "category": "mature-fashion",
+      "creator": "enter_handle",
+      "link": "enter_url",
+      "hook": "40 is not old. It is edited.",
+      "structure": "Rule title, before/after styling, restrained final outfit",
+      "cta": "Save this before your next black tee fit.",
+      "priority": 95,
+      "observedMetric": "enter actual reach, views, saves, or shares"
+    },
+    {
+      "category": "founder",
+      "creator": "enter_handle",
+      "link": "enter_url",
+      "hook": "Build the brand. Wear the brand.",
+      "structure": "Sample review, fit check, camera setup, final shot reveal",
+      "cta": "Follow the build behind VAGRANT IV.",
+      "priority": 93,
+      "observedMetric": "enter actual reach, views, saves, or shares"
+    },
+    {
+      "category": "luxury-lifestyle",
+      "creator": "enter_handle",
+      "link": "enter_url",
+      "hook": "You do not need to announce the room.",
+      "structure": "Slow arrival, minimal text, detail cuts, posture-focused ending",
+      "cta": "Follow for controlled presence.",
+      "priority": 91,
+      "observedMetric": "enter actual reach, views, saves, or shares"
+    },
+    {
+      "category": "motorcycle",
+      "creator": "enter_handle",
+      "link": "enter_url",
+      "hook": "Roadside, not runway.",
+      "structure": "Bike detail, boot step, glove pull, portrait under streetlight",
+      "cta": "Comment ROAD if this should become a full shoot.",
+      "priority": 90,
+      "observedMetric": "enter actual reach, views, saves, or shares"
+    },
+    {
+      "category": "streetwear",
+      "creator": "enter_handle",
+      "link": "enter_url",
+      "hook": "No shouting. Just structure.",
+      "structure": "Static fit check, text overlays, front-side-back, final walk",
+      "cta": "Save the breakdown.",
+      "priority": 89,
+      "observedMetric": "enter actual reach, views, saves, or shares"
+    },
+    {
+      "category": "discipline",
+      "creator": "enter_handle",
+      "link": "enter_url",
+      "hook": "The day starts before the noise.",
+      "structure": "Morning ritual, gear layout, notes, door exit",
+      "cta": "Add this to your weekly reset.",
+      "priority": 88,
+      "observedMetric": "enter actual reach, views, saves, or shares"
+    },
+    {
+      "category": "product",
+      "creator": "enter_handle",
+      "link": "enter_url",
+      "hook": "This is not a graphic tee. It is a uniform.",
+      "structure": "Fabric detail, drape, movement, city use case, product CTA",
+      "cta": "Shop VAGRANT IV through the profile.",
+      "priority": 87,
+      "observedMetric": "enter actual reach, views, saves, or shares"
+    },
+    {
+      "category": "urban-editorial",
+      "creator": "enter_handle",
+      "link": "enter_url",
+      "hook": "Singapore is sharper after the lights come on.",
+      "structure": "Location reveal, walking shot, light reflection, portrait",
+      "cta": "Which frame should be the next cover?",
+      "priority": 86,
+      "observedMetric": "enter actual reach, views, saves, or shares"
+    },
+    {
+      "category": "motorcycle",
+      "creator": "enter_handle",
+      "link": "enter_url",
+      "hook": "Before the engine, check the uniform.",
+      "structure": "Checklist text, gear sequence, engine start, night road",
+      "cta": "Save this ritual.",
+      "priority": 85,
+      "observedMetric": "enter actual reach, views, saves, or shares"
+    },
+    {
+      "category": "streetwear",
+      "creator": "enter_handle",
+      "link": "enter_url",
+      "hook": "Black tee. Denim. Boots. Finished.",
+      "structure": "Three-piece outfit build with clean final stance",
+      "cta": "Use the VAGRANT IV link in bio.",
+      "priority": 84,
+      "observedMetric": "enter actual reach, views, saves, or shares"
+    },
+    {
+      "category": "founder",
+      "creator": "enter_handle",
+      "link": "enter_url",
+      "hook": "Before the post, the standard.",
+      "structure": "Reject weak sample, adjust fit, shoot final, show result",
+      "cta": "Comment FIT for the breakdown.",
+      "priority": 83,
+      "observedMetric": "enter actual reach, views, saves, or shares"
+    },
+    {
+      "category": "mature-fashion",
+      "creator": "enter_handle",
+      "link": "enter_url",
+      "hook": "Streetwear after 40 needs weight, not noise.",
+      "structure": "Rule-led carousel-to-reel pattern with labels",
+      "cta": "Save this breakdown.",
+      "priority": 82,
+      "observedMetric": "enter actual reach, views, saves, or shares"
+    },
+    {
+      "category": "luxury-lifestyle",
+      "creator": "enter_handle",
+      "link": "enter_url",
+      "hook": "The strongest look in the room is control.",
+      "structure": "Quiet entrance, low-angle detail, no spoken audio",
+      "cta": "Follow for controlled streetwear.",
+      "priority": 81,
+      "observedMetric": "enter actual reach, views, saves, or shares"
+    },
+    {
+      "category": "urban-editorial",
+      "creator": "enter_handle",
+      "link": "enter_url",
+      "hook": "Rain makes the fit honest.",
+      "structure": "Wet pavement, boot step, tee texture, city reflection",
+      "cta": "Singapore rain or Manila concrete?",
+      "priority": 80,
+      "observedMetric": "enter actual reach, views, saves, or shares"
+    },
+    {
+      "category": "discipline",
+      "creator": "enter_handle",
+      "link": "enter_url",
+      "hook": "Ambition gets cleaner when you stop performing it.",
+      "structure": "Desk note, helmet, black tee, quiet exit",
+      "cta": "Send this to someone rebuilding.",
+      "priority": 79,
+      "observedMetric": "enter actual reach, views, saves, or shares"
+    },
+    {
+      "category": "product",
+      "creator": "enter_handle",
+      "link": "enter_url",
+      "hook": "The current uniform is live.",
+      "structure": "Hero frame, detail frame, profile link CTA, story repost",
+      "cta": "Visit the VAGRANT IV link in bio.",
+      "priority": 78,
+      "observedMetric": "enter actual reach, views, saves, or shares"
+    },
+    {
+      "category": "streetwear",
+      "creator": "enter_handle",
+      "link": "enter_url",
+      "hook": "Different city. Same standard.",
+      "structure": "Singapore frame, Manila frame, product detail, final stance",
+      "cta": "Which city gets the next shoot?",
+      "priority": 77,
+      "observedMetric": "enter actual reach, views, saves, or shares"
+    },
+    {
+      "category": "motorcycle",
+      "creator": "enter_handle",
+      "link": "enter_url",
+      "hook": "The ritual matters.",
+      "structure": "Hands-only gear prep, no face required, final bike detail",
+      "cta": "VAGRANT IV in profile.",
+      "priority": 76,
+      "observedMetric": "enter actual reach, views, saves, or shares"
+    }
+  ]
+}
