@@ -1,0 +1,45 @@
+{
+  "date": "2026-06-12",
+  "contentType": "Motorcycle reel",
+  "primaryPillar": "Motorcycle / biker lifestyle",
+  "secondaryPillar": "VAGRANT IV streetwear fits",
+  "hook": "Meeting at 6. Road by 9.",
+  "caption": "Business by day, road by night. The uniform stays honest: black tee, cargos, boots, gloves, and enough control to let the city do the talking.",
+  "cta": "Follow for controlled streetwear and road discipline.",
+  "shotList": [
+    "Watch close-up leaving a meeting",
+    "Black VAGRANT tee under blazer",
+    "Bike key in hand",
+    "Glove pull beside motorcycle",
+    "Roadside final frame under city light"
+  ],
+  "imagePrompt": "Ultra-realistic editorial street photography of Alex Danzig, 40-year-old Singaporean businessman-model, silver or bleached wavy hair, mature sharp face, rugged premium streetwear and biker energy, visible neck tattoo with 4 when natural, Watch close-up leaving a meeting, Black VAGRANT tee under blazer, Bike key in hand, Glove pull beside motorcycle, Roadside final frame under city light black VAGRANT oversized tee, denim or black cargo pants, Timberland yellow boots, gloves, Singapore or Manila night city grit, cinematic controlled masculine mood",
+  "reelPrompt": "Create a 20-second Instagram reel for Alex Danzig using the hook \"Meeting at 6. Road by 9.\". Structure the reel around these shots: Watch close-up leaving a meeting -> Black VAGRANT tee under blazer -> Bike key in hand -> Glove pull beside motorcycle -> Roadside final frame under city light. Keep the tone premium, masculine, controlled, cinematic, gritty, and confident. End with this CTA: \"Follow for controlled streetwear and road discipline.\"",
+  "hashtags": [
+    "#AlexDanzig",
+    "#VAGRANTIV",
+    "#ForTheStrong",
+    "#MensStyle",
+    "#StreetwearMen",
+    "#MotorcycleLifestyle",
+    "#BikerStyle",
+    "#NightRide"
+  ],
+  "score": {
+    "total": 100,
+    "breakdown": {
+      "hook": 100,
+      "shareability": 100,
+      "saveability": 100,
+      "brandFit": 100,
+      "cta": 100
+    },
+    "weights": {
+      "hook": 25,
+      "shareability": 25,
+      "saveability": 20,
+      "brandFit": 15,
+      "cta": 15
+    }
+  }
+}
