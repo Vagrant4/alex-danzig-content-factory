@@ -1,0 +1,45 @@
+{
+  "date": "2026-06-13",
+  "contentType": "Founder/business clip",
+  "primaryPillar": "Founder journey",
+  "secondaryPillar": "Businessman off-duty",
+  "hook": "Build the brand. Wear the brand.",
+  "caption": "The standard starts before the camera turns on: samples, fit checks, edits, and the discipline to reject anything soft.",
+  "cta": "Follow the build behind VAGRANT IV.",
+  "shotList": [
+    "Laptop with product notes",
+    "Garment sample on table",
+    "Alex checking fit in mirror",
+    "Camera setup detail",
+    "Final editorial frame"
+  ],
+  "imagePrompt": "Ultra-realistic editorial street photography of Alex Danzig, 40-year-old Singaporean businessman-model, silver or bleached wavy hair, mature sharp face, rugged premium streetwear and biker energy, visible neck tattoo with 4 when natural, Laptop with product notes, Garment sample on table, Alex checking fit in mirror, Camera setup detail, Final editorial frame black VAGRANT oversized tee, denim or black cargo pants, Timberland yellow boots, gloves, Singapore or Manila night city grit, cinematic controlled masculine mood",
+  "reelPrompt": "Create a 20-second Instagram reel for Alex Danzig using the hook \"Build the brand. Wear the brand.\". Structure the reel around these shots: Laptop with product notes -> Garment sample on table -> Alex checking fit in mirror -> Camera setup detail -> Final editorial frame. Keep the tone premium, masculine, controlled, cinematic, gritty, and confident. End with this CTA: \"Follow the build behind VAGRANT IV.\"",
+  "hashtags": [
+    "#AlexDanzig",
+    "#VAGRANTIV",
+    "#ForTheStrong",
+    "#MensStyle",
+    "#StreetwearMen",
+    "#FounderLife",
+    "#BuildTheBrand",
+    "#EntrepreneurStyle"
+  ],
+  "score": {
+    "total": 84,
+    "breakdown": {
+      "hook": 80,
+      "shareability": 75,
+      "saveability": 100,
+      "brandFit": 70,
+      "cta": 100
+    },
+    "weights": {
+      "hook": 25,
+      "shareability": 25,
+      "saveability": 20,
+      "brandFit": 15,
+      "cta": 15
+    }
+  }
+}
