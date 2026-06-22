@@ -1,0 +1,322 @@
+{
+  "weekStart": "2026-06-23",
+  "weekEnd": "2026-06-29",
+  "averageScore": 90,
+  "packs": [
+    {
+      "date": "2026-06-23",
+      "contentType": "Motivational discipline content",
+      "primaryPillar": "Discipline, survival, ambition",
+      "secondaryPillar": "Founder journey",
+      "hook": "Ambition gets cleaner when you stop performing it.",
+      "caption": "No announcement. No noise. Just the work, the road, and the standard you come back to every day.",
+      "cta": "Send this to someone rebuilding.",
+      "shotList": [
+        "Desk note in low light",
+        "Helmet on table",
+        "Black tee laid out",
+        "Door exit",
+        "Quiet road frame"
+      ],
+      "imagePrompt": "Ultra-realistic editorial street photography of Alex Danzig, 40-year-old Singaporean businessman-model, silver or bleached wavy hair, mature sharp face, rugged premium streetwear and biker energy, visible neck tattoo with 4 when natural, Desk note in low light, Helmet on table, Black tee laid out, Door exit, Quiet road frame black VAGRANT oversized tee, denim or black cargo pants, Timberland yellow boots, gloves, Singapore or Manila night city grit, cinematic controlled masculine mood",
+      "reelPrompt": "Create a 20-second Instagram reel for Alex Danzig using the hook \"Ambition gets cleaner when you stop performing it.\". Structure the reel around these shots: Desk note in low light -> Helmet on table -> Black tee laid out -> Door exit -> Quiet road frame. Keep the tone premium, masculine, controlled, cinematic, gritty, and confident. End with this CTA: \"Send this to someone rebuilding.\"",
+      "hashtags": [
+        "#AlexDanzig",
+        "#VAGRANTIV",
+        "#ForTheStrong",
+        "#MensStyle",
+        "#StreetwearMen",
+        "#Discipline",
+        "#Ambition",
+        "#MasculineStyle"
+      ],
+      "score": {
+        "total": 90,
+        "breakdown": {
+          "hook": 100,
+          "shareability": 100,
+          "saveability": 65,
+          "brandFit": 80,
+          "cta": 100
+        },
+        "weights": {
+          "hook": 25,
+          "shareability": 25,
+          "saveability": 20,
+          "brandFit": 15,
+          "cta": 15
+        }
+      }
+    },
+    {
+      "date": "2026-06-24",
+      "contentType": "Motorcycle reel",
+      "primaryPillar": "Motorcycle / biker lifestyle",
+      "secondaryPillar": "VAGRANT IV streetwear fits",
+      "hook": "Meeting at 6. Road by 9.",
+      "caption": "Business by day, road by night. The uniform stays honest: black tee, cargos, boots, gloves, and enough control to let the city do the talking.",
+      "cta": "Follow for controlled streetwear and road discipline.",
+      "shotList": [
+        "Watch close-up leaving a meeting",
+        "Black VAGRANT tee under blazer",
+        "Bike key in hand",
+        "Glove pull beside motorcycle",
+        "Roadside final frame under city light"
+      ],
+      "imagePrompt": "Ultra-realistic editorial street photography of Alex Danzig, 40-year-old Singaporean businessman-model, silver or bleached wavy hair, mature sharp face, rugged premium streetwear and biker energy, visible neck tattoo with 4 when natural, Watch close-up leaving a meeting, Black VAGRANT tee under blazer, Bike key in hand, Glove pull beside motorcycle, Roadside final frame under city light black VAGRANT oversized tee, denim or black cargo pants, Timberland yellow boots, gloves, Singapore or Manila night city grit, cinematic controlled masculine mood",
+      "reelPrompt": "Create a 20-second Instagram reel for Alex Danzig using the hook \"Meeting at 6. Road by 9.\". Structure the reel around these shots: Watch close-up leaving a meeting -> Black VAGRANT tee under blazer -> Bike key in hand -> Glove pull beside motorcycle -> Roadside final frame under city light. Keep the tone premium, masculine, controlled, cinematic, gritty, and confident. End with this CTA: \"Follow for controlled streetwear and road discipline.\"",
+      "hashtags": [
+        "#AlexDanzig",
+        "#VAGRANTIV",
+        "#ForTheStrong",
+        "#MensStyle",
+        "#StreetwearMen",
+        "#MotorcycleLifestyle",
+        "#BikerStyle",
+        "#NightRide"
+      ],
+      "score": {
+        "total": 100,
+        "breakdown": {
+          "hook": 100,
+          "shareability": 100,
+          "saveability": 100,
+          "brandFit": 100,
+          "cta": 100
+        },
+        "weights": {
+          "hook": 25,
+          "shareability": 25,
+          "saveability": 20,
+          "brandFit": 15,
+          "cta": 15
+        }
+      }
+    },
+    {
+      "date": "2026-06-25",
+      "contentType": "Founder/business clip",
+      "primaryPillar": "Founder journey",
+      "secondaryPillar": "Businessman off-duty",
+      "hook": "Build the brand. Wear the brand.",
+      "caption": "The standard starts before the camera turns on: samples, fit checks, edits, and the discipline to reject anything soft.",
+      "cta": "Follow the build behind VAGRANT IV.",
+      "shotList": [
+        "Laptop with product notes",
+        "Garment sample on table",
+        "Alex checking fit in mirror",
+        "Camera setup detail",
+        "Final editorial frame"
+      ],
+      "imagePrompt": "Ultra-realistic editorial street photography of Alex Danzig, 40-year-old Singaporean businessman-model, silver or bleached wavy hair, mature sharp face, rugged premium streetwear and biker energy, visible neck tattoo with 4 when natural, Laptop with product notes, Garment sample on table, Alex checking fit in mirror, Camera setup detail, Final editorial frame black VAGRANT oversized tee, denim or black cargo pants, Timberland yellow boots, gloves, Singapore or Manila night city grit, cinematic controlled masculine mood",
+      "reelPrompt": "Create a 20-second Instagram reel for Alex Danzig using the hook \"Build the brand. Wear the brand.\". Structure the reel around these shots: Laptop with product notes -> Garment sample on table -> Alex checking fit in mirror -> Camera setup detail -> Final editorial frame. Keep the tone premium, masculine, controlled, cinematic, gritty, and confident. End with this CTA: \"Follow the build behind VAGRANT IV.\"",
+      "hashtags": [
+        "#AlexDanzig",
+        "#VAGRANTIV",
+        "#ForTheStrong",
+        "#MensStyle",
+        "#StreetwearMen",
+        "#FounderLife",
+        "#BuildTheBrand",
+        "#EntrepreneurStyle"
+      ],
+      "score": {
+        "total": 84,
+        "breakdown": {
+          "hook": 80,
+          "shareability": 75,
+          "saveability": 100,
+          "brandFit": 70,
+          "cta": 100
+        },
+        "weights": {
+          "hook": 25,
+          "shareability": 25,
+          "saveability": 20,
+          "brandFit": 15,
+          "cta": 15
+        }
+      }
+    },
+    {
+      "date": "2026-06-26",
+      "contentType": "Streetwear fit check",
+      "primaryPillar": "Streetwear fits",
+      "secondaryPillar": "Mature male fashion",
+      "hook": "40 is not old. It is edited.",
+      "caption": "Mature streetwear is not about dressing younger. It is about removing noise until only shape, weight, and posture are left.",
+      "cta": "Save this before your next black tee fit.",
+      "shotList": [
+        "Front fit check",
+        "Side profile",
+        "Tee drape close-up",
+        "Boot detail",
+        "Final walk away"
+      ],
+      "imagePrompt": "Ultra-realistic editorial street photography of Alex Danzig, 40-year-old Singaporean businessman-model, silver or bleached wavy hair, mature sharp face, rugged premium streetwear and biker energy, visible neck tattoo with 4 when natural, Front fit check, Side profile, Tee drape close-up, Boot detail, Final walk away black VAGRANT oversized tee, denim or black cargo pants, Timberland yellow boots, gloves, Singapore or Manila night city grit, cinematic controlled masculine mood",
+      "reelPrompt": "Create a 20-second Instagram reel for Alex Danzig using the hook \"40 is not old. It is edited.\". Structure the reel around these shots: Front fit check -> Side profile -> Tee drape close-up -> Boot detail -> Final walk away. Keep the tone premium, masculine, controlled, cinematic, gritty, and confident. End with this CTA: \"Save this before your next black tee fit.\"",
+      "hashtags": [
+        "#AlexDanzig",
+        "#VAGRANTIV",
+        "#ForTheStrong",
+        "#MensStyle",
+        "#StreetwearMen",
+        "#StreetwearFit",
+        "#DarkStreetwear",
+        "#OversizedTee"
+      ],
+      "score": {
+        "total": 84,
+        "breakdown": {
+          "hook": 100,
+          "shareability": 55,
+          "saveability": 100,
+          "brandFit": 65,
+          "cta": 100
+        },
+        "weights": {
+          "hook": 25,
+          "shareability": 25,
+          "saveability": 20,
+          "brandFit": 15,
+          "cta": 15
+        }
+      }
+    },
+    {
+      "date": "2026-06-27",
+      "contentType": "Lifestyle/editorial photo",
+      "primaryPillar": "Singapore / Manila urban grit",
+      "secondaryPillar": "Lifestyle editorial",
+      "hook": "Rain makes the fit honest.",
+      "caption": "Wet pavement. Heavy boots. Black tee. No costume, no performance, just a city uniform that holds up.",
+      "cta": "Singapore rain or Manila concrete?",
+      "shotList": [
+        "Wet pavement reflection",
+        "Boot step under streetlight",
+        "Black tee texture",
+        "Silver hair rim light",
+        "Portrait beside concrete wall"
+      ],
+      "imagePrompt": "Ultra-realistic editorial street photography of Alex Danzig, 40-year-old Singaporean businessman-model, silver or bleached wavy hair, mature sharp face, rugged premium streetwear and biker energy, visible neck tattoo with 4 when natural, Wet pavement reflection, Boot step under streetlight, Black tee texture, Silver hair rim light, Portrait beside concrete wall black VAGRANT oversized tee, denim or black cargo pants, Timberland yellow boots, gloves, Singapore or Manila night city grit, cinematic controlled masculine mood",
+      "reelPrompt": "Create a 20-second Instagram reel for Alex Danzig using the hook \"Rain makes the fit honest.\". Structure the reel around these shots: Wet pavement reflection -> Boot step under streetlight -> Black tee texture -> Silver hair rim light -> Portrait beside concrete wall. Keep the tone premium, masculine, controlled, cinematic, gritty, and confident. End with this CTA: \"Singapore rain or Manila concrete?\"",
+      "hashtags": [
+        "#AlexDanzig",
+        "#VAGRANTIV",
+        "#ForTheStrong",
+        "#MensStyle",
+        "#StreetwearMen",
+        "#SingaporeStreetwear",
+        "#ManilaStreetwear",
+        "#UrbanMenswear"
+      ],
+      "score": {
+        "total": 87,
+        "breakdown": {
+          "hook": 100,
+          "shareability": 80,
+          "saveability": 100,
+          "brandFit": 80,
+          "cta": 65
+        },
+        "weights": {
+          "hook": 25,
+          "shareability": 25,
+          "saveability": 20,
+          "brandFit": 15,
+          "cta": 15
+        }
+      }
+    },
+    {
+      "date": "2026-06-28",
+      "contentType": "VAGRANT IV product post",
+      "primaryPillar": "Product support",
+      "secondaryPillar": "Streetwear fits",
+      "hook": "This is not a graphic tee. It is a uniform.",
+      "caption": "The piece works because it does not beg. It carries weight, shape, and a message that belongs on the road.",
+      "cta": "Visit the VAGRANT IV link in bio.",
+      "shotList": [
+        "Fabric close-up",
+        "Shoulder fit",
+        "Logo or graphic detail",
+        "Full outfit with boots",
+        "Profile-link story frame"
+      ],
+      "imagePrompt": "Ultra-realistic editorial street photography of Alex Danzig, 40-year-old Singaporean businessman-model, silver or bleached wavy hair, mature sharp face, rugged premium streetwear and biker energy, visible neck tattoo with 4 when natural, Fabric close-up, Shoulder fit, Logo or graphic detail, Full outfit with boots, Profile-link story frame black VAGRANT oversized tee, denim or black cargo pants, Timberland yellow boots, gloves, Singapore or Manila night city grit, cinematic controlled masculine mood",
+      "reelPrompt": "Create a 20-second Instagram reel for Alex Danzig using the hook \"This is not a graphic tee. It is a uniform.\". Structure the reel around these shots: Fabric close-up -> Shoulder fit -> Logo or graphic detail -> Full outfit with boots -> Profile-link story frame. Keep the tone premium, masculine, controlled, cinematic, gritty, and confident. End with this CTA: \"Visit the VAGRANT IV link in bio.\"",
+      "hashtags": [
+        "#AlexDanzig",
+        "#VAGRANTIV",
+        "#ForTheStrong",
+        "#MensStyle",
+        "#StreetwearMen",
+        "#VagrantStreetwear",
+        "#StreetUniform",
+        "#UtilityWear"
+      ],
+      "score": {
+        "total": 95,
+        "breakdown": {
+          "hook": 100,
+          "shareability": 80,
+          "saveability": 100,
+          "brandFit": 100,
+          "cta": 100
+        },
+        "weights": {
+          "hook": 25,
+          "shareability": 25,
+          "saveability": 20,
+          "brandFit": 15,
+          "cta": 15
+        }
+      }
+    },
+    {
+      "date": "2026-06-29",
+      "contentType": "Motivational discipline content",
+      "primaryPillar": "Discipline, survival, ambition",
+      "secondaryPillar": "Founder journey",
+      "hook": "Ambition gets cleaner when you stop performing it.",
+      "caption": "No announcement. No noise. Just the work, the road, and the standard you come back to every day.",
+      "cta": "Send this to someone rebuilding.",
+      "shotList": [
+        "Desk note in low light",
+        "Helmet on table",
+        "Black tee laid out",
+        "Door exit",
+        "Quiet road frame"
+      ],
+      "imagePrompt": "Ultra-realistic editorial street photography of Alex Danzig, 40-year-old Singaporean businessman-model, silver or bleached wavy hair, mature sharp face, rugged premium streetwear and biker energy, visible neck tattoo with 4 when natural, Desk note in low light, Helmet on table, Black tee laid out, Door exit, Quiet road frame black VAGRANT oversized tee, denim or black cargo pants, Timberland yellow boots, gloves, Singapore or Manila night city grit, cinematic controlled masculine mood",
+      "reelPrompt": "Create a 20-second Instagram reel for Alex Danzig using the hook \"Ambition gets cleaner when you stop performing it.\". Structure the reel around these shots: Desk note in low light -> Helmet on table -> Black tee laid out -> Door exit -> Quiet road frame. Keep the tone premium, masculine, controlled, cinematic, gritty, and confident. End with this CTA: \"Send this to someone rebuilding.\"",
+      "hashtags": [
+        "#AlexDanzig",
+        "#VAGRANTIV",
+        "#ForTheStrong",
+        "#MensStyle",
+        "#StreetwearMen",
+        "#Discipline",
+        "#Ambition",
+        "#MasculineStyle"
+      ],
+      "score": {
+        "total": 90,
+        "breakdown": {
+          "hook": 100,
+          "shareability": 100,
+          "saveability": 65,
+          "brandFit": 80,
+          "cta": 100
+        },
+        "weights": {
+          "hook": 25,
+          "shareability": 25,
+          "saveability": 20,
+          "brandFit": 15,
+          "cta": 15
+        }
+      }
+    }
+  ]
+}
