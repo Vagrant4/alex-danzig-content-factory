@@ -1,0 +1,45 @@
+{
+  "date": "2026-07-16",
+  "contentType": "VAGRANT IV product post",
+  "primaryPillar": "Product support",
+  "secondaryPillar": "Streetwear fits",
+  "hook": "This is not a graphic tee. It is a uniform.",
+  "caption": "The piece works because it does not beg. It carries weight, shape, and a message that belongs on the road.",
+  "cta": "Visit the VAGRANT IV link in bio.",
+  "shotList": [
+    "Fabric close-up",
+    "Shoulder fit",
+    "Logo or graphic detail",
+    "Full outfit with boots",
+    "Profile-link story frame"
+  ],
+  "imagePrompt": "Ultra-realistic editorial street photography of Alex Danzig, 40-year-old Singaporean businessman-model, silver or bleached wavy hair, mature sharp face, rugged premium streetwear and biker energy, visible neck tattoo with 4 when natural, Fabric close-up, Shoulder fit, Logo or graphic detail, Full outfit with boots, Profile-link story frame black VAGRANT oversized tee, denim or black cargo pants, Timberland yellow boots, gloves, Singapore or Manila night city grit, cinematic controlled masculine mood",
+  "reelPrompt": "Create a 20-second Instagram reel for Alex Danzig using the hook \"This is not a graphic tee. It is a uniform.\". Structure the reel around these shots: Fabric close-up -> Shoulder fit -> Logo or graphic detail -> Full outfit with boots -> Profile-link story frame. Keep the tone premium, masculine, controlled, cinematic, gritty, and confident. End with this CTA: \"Visit the VAGRANT IV link in bio.\"",
+  "hashtags": [
+    "#AlexDanzig",
+    "#VAGRANTIV",
+    "#ForTheStrong",
+    "#MensStyle",
+    "#StreetwearMen",
+    "#VagrantStreetwear",
+    "#StreetUniform",
+    "#UtilityWear"
+  ],
+  "score": {
+    "total": 95,
+    "breakdown": {
+      "hook": 100,
+      "shareability": 80,
+      "saveability": 100,
+      "brandFit": 100,
+      "cta": 100
+    },
+    "weights": {
+      "hook": 25,
+      "shareability": 25,
+      "saveability": 20,
+      "brandFit": 15,
+      "cta": 15
+    }
+  }
+}
