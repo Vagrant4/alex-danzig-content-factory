@@ -1,6 +1,6 @@
 # Alex Danzig Growth Dashboard
 
-Last refreshed: 2026-10-05T07:49:13.175Z
+Last refreshed: 2026-10-12T08:11:18.463Z
 
 Data rule: no fake analytics. Placeholder values must be replaced only with verified Instagram, Meta Business Suite, or website analytics data.
 
